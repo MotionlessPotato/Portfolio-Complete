@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+ 	font-family: Arial, Veranda, sans-serif;}
+h1, h2 {
+	color: #ee3e80;}
+p {
+	color: #665544;}
+p {
+	font-size: 12px;}
+p#intro {
+	font-size: 16px;}
+b {
+	color: #F00;
+	font-family: "Comic Sans MS", cursive;}
+p b{
+	color: #309;}
+.page {
+	border: 1px solid #000000;
+	background-color: #3CC;
+	padding: inherit;}

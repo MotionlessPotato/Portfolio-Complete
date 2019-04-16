@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6{
+	color: #03F;
+	font-size:24px;}
+p{
+	font-size:12px;
+	font-style: italic;}
+p b{
+	font-family: "Comic Sans MS", cursive;}
+.page {
+	backgroud-color: #000;
+	padding: inherit;
+	color: #C0C;} 
