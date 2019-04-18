@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	Background-color: gray;
+	color: white;
+	padding: 20px;
+	font-family: Arial, Veranda, sans-serif;}
+h1 {
+	background-color:#ffffff;
+	background-color: hsla(0,100%,100%,0.5);
+	color: #64645A
+	padding:inherit;}
+p {
+	padding: 5px;
+	margin: 0pxp;}
+p.zero {
+	background-color:#F00;}
+p.one {
+	background-color:#F60;}
+p.two {
+	background-color:#F90;}
+p.three {
+	background-color:#FC0;}
+p.four {
+	background-color:#9C3;}
+P.five {
+	background-color:#0C0;}
+P.six {
+	background-color:#090;}
+p.seven {
+	background-color:#060;}
+P.eight {
+	background-color:#366;}
+p.nine {
+	background-color:#399;}
+p.ten {
+	background-color:#36C;}
+p.eleven {
+	background-color:#33C;}
+p.twelve {
+	background-color:#639;}
+p.thirteen {
+	background-color:#609;}
+p.fourteen {
+	background-color:#306;}
+	
